@@ -1,0 +1,10 @@
+C:\Users\90545\source\repos\ServoUI\ServoUI\bin\Debug\ServoUI.exe.config
+C:\Users\90545\source\repos\ServoUI\ServoUI\bin\Debug\ServoUI.exe
+C:\Users\90545\source\repos\ServoUI\ServoUI\bin\Debug\ServoUI.pdb
+C:\Users\90545\source\repos\ServoUI\ServoUI\obj\Debug\ServoUI.csprojAssemblyReference.cache
+C:\Users\90545\source\repos\ServoUI\ServoUI\obj\Debug\ServoUI.Form1.resources
+C:\Users\90545\source\repos\ServoUI\ServoUI\obj\Debug\ServoUI.Properties.Resources.resources
+C:\Users\90545\source\repos\ServoUI\ServoUI\obj\Debug\ServoUI.csproj.GenerateResource.cache
+C:\Users\90545\source\repos\ServoUI\ServoUI\obj\Debug\ServoUI.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\ServoUI\ServoUI\obj\Debug\ServoUI.exe
+C:\Users\90545\source\repos\ServoUI\ServoUI\obj\Debug\ServoUI.pdb
